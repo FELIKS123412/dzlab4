@@ -1,0 +1,12 @@
+"dzlab4.exe" (Win32). Загружено "C:\Users\User\source\repos\dzlab4\x64\Debug\dzlab4.exe". Символы загружены.
+"dzlab4.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"dzlab4.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"dzlab4.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"dzlab4.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"dzlab4.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 16716 завершился с кодом 0 (0x0).
+"dzlab4.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"dzlab4.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+Поток 24188 завершился с кодом 0 (0x0).
+Поток 21912 завершился с кодом 0 (0x0).
+Программа "[17744] dzlab4.exe" завершилась с кодом 0 (0x0).
